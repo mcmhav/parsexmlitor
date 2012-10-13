@@ -1,0 +1,53 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="1.8">
+  <entry type="song">
+    <title>Nightcall</title>
+    <genre>Soundtrack</genre>
+    <artist>Kavinsky &amp; Lovefoxxx</artist>
+    <album>Drive (Original Motion Picture Soundtrack)</album>
+    <track-number>1</track-number>
+    <duration>259</duration>
+    <location>file:///home/martin/Music/01%20-%20Kavinsky%20&amp;%20Lovefoxxx%20-%20Nightcall.mp3</location>
+    <mtime>1327228704</mtime>
+    <first-seen>1342816661</first-seen>
+    <last-seen>1343152459</last-seen>
+    <last-played>1343152721</last-played>
+    <bitrate>128</bitrate>
+    <date>734138</date>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="song">
+    <title>Black And Gold</title>
+    <genre>Unknown</genre>
+    <artist>Sam Sparro</artist>
+    <album>Sam Sparro</album>
+    <track-number>2</track-number>
+    <duration>275</duration>
+    <file-size>11077899</file-size>
+    <location>file:///home/martin/Music/02%20%20sam%20sparro%20-%20black%20and%20gold.mp3</location>
+    <mtime>1319114302</mtime>
+    <first-seen>1342816526</first-seen>
+    <last-seen>1343230829</last-seen>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+    <entry type="song">
+    <title>Map of the Problematique</title>
+    <genre>BritPop</genre>
+    <artist>Muse</artist>
+    <album>Black Holes and Revelations</album>
+    <track-number>4</track-number>
+    <duration>258</duration>
+    <file-size>10386183</file-size>
+    <location>file:///home/martin/Music/04%20-%20Map%20of%20the%20Problematique.mp3</location>
+    <mtime>1322686693</mtime>
+    <first-seen>1342816171</first-seen>
+    <last-seen>1343230829</last-seen>
+    <play-count>2</play-count>
+    <last-played>1343167297</last-played>
+    <bitrate>320</bitrate>
+    <date>732312</date>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+</rhythmdb>

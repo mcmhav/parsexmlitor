@@ -1,0 +1,51 @@
+<?xml version="1.0" ?><rhythmdb version="1.8">
+  <entry type="song">
+    <title>Rock Your Body (Paul Oakenfold Mix)</title>
+    <genre>Lo-Fi</genre>
+    <artist>Justin Timberlake</artist>
+    <album>Erotic Lounge 8 Intimate Selection</album>
+    <track-number>2</track-number>
+    <disc-number>1</disc-number>
+    <duration>335</duration>
+    <rating>2</rating><file-size>7273464</file-size>
+    <location>file:///home/martin/Music/rock%20your%20body%20(paul%20oakenfold%20mix)%20-%20justin%20timberlake.mp3</location>
+    <mtime>1256318068</mtime>
+    <first-seen>1342817077</first-seen>
+    <last-seen>1343230829</last-seen>
+    <bitrate>128</bitrate>
+    <date>733408</date>
+    <media-type>audio/mpeg</media-type>
+    <comment>.:.::DRUM::.:.</comment>
+  </entry>
+  <entry type="song">
+    <title>Nuits Blanches</title>
+    <genre>Lo-Fi</genre>
+    <artist>Blank &amp; Jones</artist>
+    <album>Erotic Lounge 8 Intimate Selection</album>
+    <disc-number>1</disc-number>
+    <duration>244</duration>
+    <rating>2</rating><file-size>5819273</file-size>
+    <location>file:///home/martin/Music/nuits%20blanches%20-%20blank%20&amp;%20jones.mp3</location>
+    <mtime>1256318246</mtime>
+    <first-seen>1342816578</first-seen>
+    <last-seen>1343230829</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+  <entry type="song">
+    <title>Just So</title>
+    <genre>Lo-Fi</genre>
+    <artist>Obel</artist>
+    <album>Erotic Lounge 8 Intimate Selection</album>
+    <duration>210</duration>
+    <rating>2</rating><file-size>3374604</file-size>
+    <location>file:///home/martin/Music/just%20so%20-%20obel.mp3</location>
+    <mtime>1256318246</mtime>
+    <first-seen>1342816969</first-seen>
+    <last-seen>1343230829</last-seen>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+  </entry>
+</rhythmdb>

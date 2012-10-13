@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="1.7">
+  <entry type="song">
+    <title>Pistol Of Fire</title>
+    <genre>Southern Rock/Alternative Country-Rock</genre>
+    <artist>Kings Of Leon</artist>
+    <album>Aha Shake Heartbreak</album>
+    <track-number>4</track-number>
+    <disc-number>1</disc-number>
+    <duration>140</duration>
+    <file-size>3921936</file-size>
+    <location>file:///media/%5E%5E/MatiM/M/pistol%20of%20fire.mp3</location>
+    <mountpoint>file:///media/%5E%5E</mountpoint>
+    <mtime>1253658018</mtime>
+    <first-seen>1293143402</first-seen>
+    <last-seen>1297293996</last-seen>
+    <bitrate>192</bitrate>
+    <date>731581</date>
+    <mimetype>application/x-id3</mimetype>
+  </entry>
+  <entry type="song">
+    <title>Milk</title>
+    <genre>Southern Rock/Alternative Country-Rock</genre>
+    <artist>Kings Of Leon</artist>
+    <album>Aha Shake Heartbreak</album>
+    <track-number>5</track-number>
+    <disc-number>1</disc-number>
+    <duration>240</duration>
+    <file-size>6033258</file-size>
+    <location>file:///media/%5E%5E/MatiM/M/milk.mp3</location>
+    <mountpoint>file:///media/%5E%5E</mountpoint>
+    <mtime>1253657721</mtime>
+    <first-seen>1293143397</first-seen>
+    <last-seen>1297293996</last-seen>
+    <bitrate>160</bitrate>
+    <date>731581</date>
+    <mimetype>application/x-id3</mimetype>
+  </entry>
+  <entry type="song">
+    <title>Black And Gold</title>
+    <genre>Unknown</genre>
+    <artist>Sam Sparro</artist>
+    <album>Sam Sparro</album>
+    <track-number>2</track-number>
+    <duration>275</duration>
+    <file-size>11020496</file-size>
+    <location>file:///media/%5E%5E/MatiM/M/02%20%20sam%20sparro%20-%20black%20and%20gold.mp3</location>
+    <mountpoint>file:///media/%5E%5E</mountpoint>
+    <mtime>1262825144</mtime>
+    <first-seen>1293030278</first-seen>
+    <last-seen>129s7293996</last-seen>
+    <rating>5</rating>
+    <play-count>8</play-count>
+    <last-played>1297115826</last-played>
+    <bitrate>320</bitrate>
+    <date>0</date>
+    <mimetype>application/x-id3</mimetype>
+  </entry>
+  <entry type="song">
+    <title>You've Lost That Loving Feeling</title>
+    <genre>Unknown</genre>
+    <artist>Righteous Brothers</artist>
+    <album>Unknown</album>
+    <disc-number>1</disc-number>
+    <duration>227</duration>
+    <file-size>3647488</file-size>
+    <location>file:///media/%5E%5E/MatiM/M/you've%20lost%20that%20loving%20feeling.mp3</location>
+    <mountpoint>file:///media/%5E%5E</mountpoint>
+    <mtime>1253658368</mtime>
+    <first-seen>1293143413</first-seen>
+    <last-seen>s</last-seen>
+    <play-count>1</play-count>
+    <last-played>1293447013</last-played>
+    <bitrate>128</bitrate>
+    <date>0</date>
+    <mimetype>application/x-id3</mimetype>
+  </entry>
+</rhythmdb>
